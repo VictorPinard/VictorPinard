@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+⚡ Developer with 15 years of experience
+
+⚡ Blockchain development enthusiast
+
+⚡ Smart contract developer
+
 <!--
 **VictorPinard/VictorPinard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
